@@ -39,4 +39,3 @@ def match_resume(data: ResumeRequest):
         "matched_category": data.category
     }
 
-
